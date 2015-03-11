@@ -1,6 +1,10 @@
 # stackoverflow.questions.1715811
 Drupal development and use by professional programmers .. are there specific pitfalls or advantages?
 
+```
+The following was originally posted to StackOverflow in 2009. (http://stackoverflow.com/questions/1715811) The post was unfortunately deleted by some StackOverflow users. It is reproduced here for historical purposes. It was the earliest (apparently the first) public proposal to advocate the use of YAML in Drupal, as a basis for enhancing the professionalism, maintainability, and flexibility of the product. After some resistance by the Drupal community, YAML was recognized and adopted for use in Drupal version 8.
+```
+
 **Background:** Long ago Microsoft Access gained a lot of popularity because you could build pretty powerful desktop database applications with point-and-click ease. It seems like Drupal is now doing the same thing, except for the web.
 
 This is definitely good in some aspects, but it seems to have some drawbacks as well. From the perspective of someone with a few years of Web development experience and programming experience, it seems like Drupal has some quirks that take some getting used to.
