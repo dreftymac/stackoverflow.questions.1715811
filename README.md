@@ -6,8 +6,9 @@ Drupal development and use by professional programmers .. are there specific pit
 ```
 The following was originally posted to StackOverflow in 2009. (http://stackoverflow.com/questions/1715811) 
 The post was unfortunately deleted by some StackOverflow users. It is reproduced here for historical purposes. 
-It was one of the earliest (apparently the first) public proposals to advocate the use of YAML in Drupal, 
-as a basis for enhancing the professionalism, maintainability, and flexibility of the product. 
+It was one of the earliest public proposals  (apparently the first) to advocate the use of YAML in Drupal, 
+to enhance the professionalism, maintainability, and flexibility of the product.
+
 After some resistance by the Drupal community, YAML was recognized and adopted for use in Drupal version 8.
 ```
 
