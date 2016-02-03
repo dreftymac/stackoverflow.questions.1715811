@@ -1,6 +1,6 @@
 # stackoverflow.questions.1715811
 
-> [stackoverflow post from 2009](https://github.com/dreftymac/stackoverflow.questions.1715811/issues/1)
+> [Stackoverflow post from 2009](https://github.com/dreftymac/stackoverflow.questions.1715811/issues/1)
 Drupal development and use by professional programmers .. are there specific pitfalls or advantages?
 
 ```
