@@ -9,7 +9,8 @@ The post was unfortunately deleted by some StackOverflow users. It is reproduced
 It was one of the earliest public proposals  (apparently the first) to advocate the use of YAML in Drupal, 
 to enhance the professionalism, maintainability, and flexibility of the product.
 
-After some resistance by prominent figures in the Drupal community, YAML was recognized and adopted for use in Drupal version 8.
+After some resistance by prominent figures in the Drupal community, YAML was recognized and adopted 
+for use in Drupal version 8.
 ```
 
 **Background:** Long ago Microsoft Access gained a lot of popularity because you could build pretty powerful desktop database applications with point-and-click ease. It seems like Drupal is now doing the same thing, except for the web.
